@@ -47,3 +47,45 @@
         *  [OSX Install Steps](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html#install-plugin-macos)
         *  [Windows Install Steps](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html#install-plugin-windows)
     *  [Time Card reporting](https://augustus.iqnavigator.com/) - IQN
+
+4. Team Specific References
+    *  [Runbooks](https://confluence.disney.com/display/DEVSVC/Shared+Services+Runbooks)
+    *  [Sprint Dashboard](https://supportal-jira.disney.com/projects/COTS/summary)
+    *  [Gitlab Team Repos](https://gitlab.disney.com/se-devsvc)
+    *  [Gitlab Terraform Module Repo](https://gitlab.disney.com/tf-modules)
+    
+5. Slack channels (see on boarding doc, plus:)
+*  disney-aws
+*  gitlab
+*  terraform-general
+*  jira
+*  nexus
+*  announcements 
+*  confluence
+*  bde-monitoring
+*  Requires invites:
+    *  aes-aws-working-group
+    *  aes-notifications
+    *  aes-ops
+    *  aes-team
+    *  bde-devsvc
+    *  bde-security
+    *  case-all-team
+    *  disney-github
+    *  se-devsvc
+    *  se-devsvc-we-ddm
+
+4. Acronym / glossary
+*  TTP: Testing Tools Platform - Test with Confidence, Options & Efficiency
+*  AES: Atlassian Engineering Services (devops team dedicated to Jira / Confluence apps)
+*  BDE: Build and Delivery Engineering = gitlab, hub, nexus, jenkins
+*  DDM: Digital Media Agency
+*  Confluence (internal documentation wiki, tied to jira)
+*  DGN: Disney Global Network
+*  Netbond: branded Direct Connect vendor 
+*  GIS: Global Information Security
+*  [RSAM](https://remediation.disney.com): Remediation
+*  [GitLab runner](https://docs.gitlab.com/runner/)
+*  DATG: Disney ABC Television Group
+*  ESS:
+*  PCM: Public Cloud Manager, replaced by Cloud Account Manager (CAM), often referred to as [bespin](https://manager.cloud.disney.com/)
