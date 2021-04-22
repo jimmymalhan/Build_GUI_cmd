@@ -1,5 +1,5 @@
 1. Network Access Info
-    * a. [MyID](https://profile.myid.disney.com/“ target=“_blank” title=“Single Sign On) - Single Sign On Provider
+    *  [MyID](https://profile.myid.disney.com/“ target=“_blank” title=“Single Sign On) - Single Sign On Provider
         * i. AD domain: swna
         * ii. [The Hub](https://enterpriseportal.disney.com) - Gitlab and Chef repo authority
         * iii. [SOLO](https://confluence.disney.com/display/IDAM/SOLO+User+Documentation+-+Self+Service+Application+Integrations) - MyID cloud replacement
