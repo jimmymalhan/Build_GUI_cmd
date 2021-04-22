@@ -1,7 +1,7 @@
 # Onboarding Checklist
 
 1. Network Access Info
-*  [MyID](https://profile.myid.disney.com/“ target=“_blank” title=“Single Sign On) - Single Sign On Provider
+* [MyID](https://profile.myid.disney.com/“ target=“_blank” title=“Single Sign On) - Single Sign On Provider
 *  i. AD domain: swna
 *  ii. [The Hub](https://enterpriseportal.disney.com) - Gitlab and Chef repo authority
 *  iii. [SOLO](https://confluence.disney.com/display/IDAM/SOLO+User+Documentation+-+Self+Service+Application+Integrations) - MyID cloud replacement
@@ -14,8 +14,8 @@
 3. [Rostr](https://rostr.disney.com/) - company directory
 
 4. Acronym / glossary
-*  TTP: Testing Tools Platform - Test with Confidence, Options & Efficiency
-*  AES: Atlassian Engineering Services (devops team dedicated to Jira / Confluence apps)
+*  TTP: Testing Tools Platform - Test with Confidence, Options & EfficiencyCancel changes
+*  AES: Atlassian Engineering Services (devops team dedicated to Jira / Confluence apps)
 *  BDE: Build and Delivery Engineering = gitlab, hub, nexus, jenkins
 *  DDM: Digital Media Agency
 *  Confluence (internal documentation wiki, tied to jira)
